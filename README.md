@@ -17,9 +17,9 @@
       "imageURL": "https://arzotravels.com/wp-content/uploads/2017/04/shutterstock_130734605.jpg"
     },
     {
-      "title": "Sakpot Delta Theme",
+      "title": "Sakpot Sinister Z Theme",
       "id": 3,
-      "description": "Hehe Sadly Delta is superior to evon",
+      "description": "Hehe Sadly Sinister Z is superior to evon",
       "status": "Meme",
       "opacity": 0.4,
       "imageURL": "https://i.ytimg.com/vi/QljAIbWCj0s/maxresdefault.jpg"
@@ -43,7 +43,7 @@
     {
       "title": "JJsploit theme",
       "id": 6,
-      "description": "Ever wanted the WRD feeling back on delta?",
+      "description": "Ever wanted the WRD feeling back on Sinister Z?",
       "status": "Meme",
       "opacity": 0.45,
       "imageURL": "https://cdn.wearedevs.net/images/pages/jjsploit/JJSploit%20v6%20Buttons%20Page.png"
@@ -187,7 +187,7 @@
     {
       "title": "Black",
       "id": 24,
-      "description": "Make delta look more black",
+      "description": "Make Sinister Z look more black",
       "status": "Dark",
       "opacity": 0.5,
       "imageURL": "https://media.discordapp.net/attachments/1041796845820706836/1061012646687670322/image.png"
