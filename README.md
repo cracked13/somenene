@@ -285,6 +285,13 @@
       "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078303566659321936/647528.png"
     },
 
-
+{
+      "title": "Pikachu",
+      "id": 30,
+      "description": "Pikachu of Pokemon",
+      "status": "Dark",
+      "opacity": 0.7,
+      "imageURL": "https://www.nintenderos.com/wp-content/uploads/2021/05/best-electric-type-pokemon-ampharos-pikachu-zapdos-more-Cropped.jpg"
+    },
   ]
 }
