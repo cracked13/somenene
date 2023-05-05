@@ -1,4 +1,3 @@
-
 {
   "themes": [
     {
@@ -293,15 +292,6 @@
       "status": "Dark",
       "opacity": 0.7,
       "imageURL": "https://www.nintenderos.com/wp-content/uploads/2021/05/best-electric-type-pokemon-ampharos-pikachu-zapdos-more-Cropped.jpg"
-    },
-
-{
-      "title": "Idk",
-      "id": 30,
-      "description": "idk theme,
-      "status": "Dark",
-      "opacity": 0.7,
-      "imageURL": "https://img.guildedcdn.com/ContentMediaGenericFiles/649f356e7b032fc7adaf055a9a29c018-Full.webp?w=3676&h=2068"
     },
   ]
 }
