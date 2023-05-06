@@ -293,5 +293,14 @@
       "opacity": 0.7,
       "imageURL": "https://www.nintenderos.com/wp-content/uploads/2021/05/best-electric-type-pokemon-ampharos-pikachu-zapdos-more-Cropped.jpg"
     },
+
+{
+      "title": "Asta".
+      "id": 30,
+      "description": "Asta theme",
+      "status": "Dark",
+      "opacity": 0.7,
+      "imageURL": "https://criticalhits.com.br/wp-content/uploads/2023/02/asta-black-clover-social.jpg"
+    },
   ]
 }
